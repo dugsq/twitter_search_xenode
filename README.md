@@ -1,7 +1,7 @@
 twitter-search-xenode
 =====================
 
-**Twitter Search Xenode** leverages the Twitter RubyGem, uses a pre-defined keyword and returns a pre-defined number of tweets that contain the the search keyword as well as meeting the "result type" criteria. It passes the search results as hash to the children Xenodes. 
+**Twitter Search Xenode** leverages the Twitter RubyGem, uses a pre-defined search keyword and returns a pre-defined number of tweets that contain the the search keyword as well as meeting the "result type" criteria. It passes the search results as hash to the children Xenodes. 
 
 ###Config file options:###
 * loop_delay: defines number of seconds the Xenode waits before running the Xenode process. Expects a float. 
@@ -23,7 +23,7 @@ twitter-search-xenode
     - count: 10
     - result_type: recent
 
-###Example Input:###    
+###Example Input:###
 * The Twitter Search Xenode does not expect nor handle any input.  
 
 ###Example Output:###
