@@ -1,4 +1,4 @@
-twitter-search-xenode
+Twitter Search Xenode
 =====================
 
 **Twitter Search Xenode** leverages the Twitter RubyGem, uses a pre-defined search keyword and returns a pre-defined number of tweets that contain the the search keyword as well as meeting the "result type" criteria. It passes the search results as hash to the children Xenodes. 
