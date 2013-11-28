@@ -1,0 +1,10 @@
+---
+loop_delay: 60
+debug: false
+enabled: false
+consumer_key: iIQ2lUmCU1111111
+consumer_secret: 60YNPG1YSuUr0000000
+search_string: "xenograte"
+search_options:
+  count: 3
+  result_type: "recent"
