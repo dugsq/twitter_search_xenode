@@ -1,6 +1,8 @@
 Twitter Search Xenode
 =====================
 
+Note: you will need the Xenograte Community Toolkit (XCT) to run this Xenode. Refer to the XCT repo [https://github.com/Nodally/xenograte-xct](https://github.com/Nodally/xenograte-xct) for more information.
+
 **Twitter Search Xenode** leverages the Twitter RubyGem, uses a pre-defined search keyword and returns a pre-defined number of tweets that contain the the search keyword as well as meeting the "result type" criteria. It passes the search results as hash to the children Xenodes. 
 
 ###Config file options:###
